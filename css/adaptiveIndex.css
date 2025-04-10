@@ -9,10 +9,6 @@
 
 @media screen and (max-width: 1500px) {
 
-  #reg-form-frame {
-    display: none;
-  }
-
   .footer-block {
     width: 100%;
   }
