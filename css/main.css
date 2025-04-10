@@ -858,3 +858,12 @@ body.lock {
   gap: 15px;
   align-items: center;
 }
+
+#reg-form-frame {
+  width: 320px;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  right: 0;
+  z-index: 500;
+}
